@@ -285,12 +285,7 @@ python inference.py --config=example/config/labrador.yaml --loop
 ## AnimateBench
 We have open-sourced AnimateBench on [HuggingFace](https://huggingface.co/datasets/ymzhang319/AnimateBench) which includes images, prompts and configs to evaluate PIA and other image animation methods.
 
-## Contact Us
-**Yiming Zhang**: zhangyiming@pjlab.org.cn
 
-**Zhening Xing**: xingzhening@pjlab.org.cn
-
-**Yanhong Zeng**: zengyanhong@pjlab.org.cn
 
 ## Acknowledgements
 The code is built upon [AnimateDiff](https://github.com/guoyww/AnimateDiff), [Tune-a-Video](https://github.com/showlab/Tune-A-Video) and [PySceneDetect](https://github.com/Breakthrough/PySceneDetect)
