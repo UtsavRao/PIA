@@ -7,20 +7,7 @@
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2312.13964-b31b1b.svg)](https://arxiv.org/abs/2312.13964)
-[![Project Page](https://img.shields.io/badge/PIA-Website-green)](https://pi-animator.github.io)
-[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/app-center/openxlab_app.svg)](https://openxlab.org.cn/apps/detail/zhangyiming/PiaPia)
-[![Third Party Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PIA-colab/blob/main/PIA_colab.ipynb)
-[![HuggingFace Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Leoxing/PIA)
-<a target="_blank" href="https://huggingface.co/spaces/Leoxing/PIA">
-  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="Open in HugginFace"/>
-</a>
-[![Replicate](https://replicate.com/cjwbw/pia/badge)](https://replicate.com/cjwbw/pia) 
 
-You may also want to try other project from our team:
-<a target="_blank" href="https://github.com/open-mmlab/mmagic">
-  <img src="https://github.com/open-mmlab/mmagic/assets/28132635/15aab910-f5c4-4b76-af9d-fe8eead1d930" height=20 alt="MMagic"/>
-</a>
 
 PIA is a personalized image animation method which can generate videos with **high motion controllability** and **strong text and image alignment**.
 
