@@ -4,7 +4,7 @@
 
 
 
-(*Corresponding Author, †Equal Contribution)
+
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2312.13964-b31b1b.svg)](https://arxiv.org/abs/2312.13964)
