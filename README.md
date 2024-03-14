@@ -14,15 +14,13 @@ PIA is a personalized image animation method which can generate videos with **hi
 <img src="__assets__/image_animation/teaser/teaser.gif">
 
 ## What's New
-[2024/01/03] Add [Replicate Demo & API](https://replicate.com/cjwbw/pia)!
+Add [Replicate Demo & API](https://replicate.com/cjwbw/pia)!
 
-[2024/01/03] Add third-party [Colab](https://github.com/camenduru/PIA-colab)!
+Add third-party [Colab](https://github.com/camenduru/PIA-colab)!
 
-[2023/12/28] PIA can animate a 1024x1024 image with just 16GB of GPU memory with `scaled_dot_product_attention`!
+PIA can animate a 1024x1024 image with just 16GB of GPU memory with `scaled_dot_product_attention`!
 
-[2023/12/25] HuggingFace demo is available now! [🤗 Hub](https://huggingface.co/spaces/Leoxing/PIA/)
 
-[2023/12/22] Release the model and demo of PIA. Try it to make your personalized movie!
 
 - Online Demo on [OpenXLab](https://openxlab.org.cn/apps/detail/zhangyiming/PiaPia)
 - Checkpoint on [Google Drive](https://drive.google.com/file/d/1RL3Fp0Q6pMD8PbGPULYUnvjqyRQXGHwN/view?usp=drive_link) or [![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/models/detail/zhangyiming/PIA)
